@@ -1,0 +1,2 @@
+# Monolith.paste
+mono.xyz
