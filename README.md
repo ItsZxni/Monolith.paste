@@ -1,2 +1,1 @@
 # Monolith.paste
-mono.xyz
